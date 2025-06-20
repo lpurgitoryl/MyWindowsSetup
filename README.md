@@ -28,6 +28,9 @@ I had some issues with lighting and turning this off helped.
     - Show accent color on Start and Taskbar > On
     - Show accent color on title bars and windows borders > On
 
+- Settings > Personalization > Start
+  - Off ( Everything Start Related )
+
 remove recycle bin ( the shortcut can't be deleted it seems like )
 - Settings > Personalization > Desktop icon Settings > Recycle Bin > Uncheck
 # Apps

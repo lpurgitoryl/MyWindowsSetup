@@ -30,5 +30,7 @@ I had some issues with lighting and turning this off helped.
    
 # Apps
 PowerToys
+
+I like the fancy zones as it makes a nice gap between windows.
 - Fancyzones
   - Window behavior > Make dragged window transparent

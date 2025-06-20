@@ -1,6 +1,7 @@
 # MyWindowsSetup
 My Personal Windows Preferences and Configs.
 Using this as a record space for my newly built pc.
+These are additional to default settigns.
 
 # Windows Settings
 - Settings > Apps > Startup > Off ( do this for literally everything you don't need... *`im looking at you Edge`* )
@@ -29,3 +30,5 @@ I had some issues with lighting and turning this off helped.
    
 # Apps
 PowerToys
+- Fancyzones
+  - Window behavior > Make dragged window transparent

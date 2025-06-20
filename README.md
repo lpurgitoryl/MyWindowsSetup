@@ -33,6 +33,7 @@ I had some issues with lighting and turning this off helped.
 
 remove recycle bin ( the shortcut can't be deleted it seems like )
 - Settings > Personalization > Desktop icon Settings > Recycle Bin > Uncheck
+- 
 # Apps
 
 ### PowerToys
@@ -45,3 +46,10 @@ I like the fancy zones as it makes a nice gap between windows.
 ### TranslucentTB
   - Desktop > Clear
   - Desktop > Accent Color
+
+# WSL
+Before Installing WSL
+- Control Panel > Programs > Turn Windows features on or off > Windows Subsystem for Linux > check and apply
+
+After 
+- follow [this](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)

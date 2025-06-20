@@ -34,10 +34,14 @@ I had some issues with lighting and turning this off helped.
 remove recycle bin ( the shortcut can't be deleted it seems like )
 - Settings > Personalization > Desktop icon Settings > Recycle Bin > Uncheck
 # Apps
-PowerToys
 
+### PowerToys
 I like the fancy zones as it makes a nice gap between windows.
 - Fancyzones
   - Window behavior > Make dragged window transparent
   - Zones
     - uncheck everything
+      
+### TranslucentTB
+  - Desktop > Clear
+  - Desktop > Accent Color

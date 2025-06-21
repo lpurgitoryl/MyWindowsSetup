@@ -5,7 +5,7 @@ These are additional to default settigns.
 
 # Windows Settings
 - Settings > Apps > Startup > Off ( do this for literally everything you don't need... *`im looking at you Edge`* )
-
+- Settings > Apps > Google Chrome ( must install first ) > Make default
 RGB lighting of PC fans and accessories
 The third party application with your mother board has more control.
 Use that rather than the windows managment.

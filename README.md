@@ -60,6 +60,12 @@ I like the fancy zones as it makes a nice gap between windows.
 ### TRCC 
 [ This is so my AIO shows its theme on log in ](https://github.com/lpurgitoryl/TRCC_EnableOnStartup)
 
+### Warp
+So far its pretty cool! Automatically deteched my wsl environment and intial customization is enough to make thing looks pretty!
+- Theme > Dark City
+
+Other configs are not easily exported, but I made Ubuntu as default shell.
+
 # WSL
 Before Installing WSL
 - Control Panel > Programs > Turn Windows features on or off > Windows Subsystem for Linux > check and apply

@@ -56,6 +56,9 @@ I like the fancy zones as it makes a nice gap between windows.
   - Desktop > Clear
   - Desktop > Accent Color
 
+### TRCC 
+[ This is so my AIO shows its theme on log in ](https://github.com/lpurgitoryl/TRCC_EnableOnStartup)
+
 # WSL
 Before Installing WSL
 - Control Panel > Programs > Turn Windows features on or off > Windows Subsystem for Linux > check and apply

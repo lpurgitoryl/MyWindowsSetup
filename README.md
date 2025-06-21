@@ -72,3 +72,9 @@ Before Installing WSL
 
 After 
 - follow [this](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)
+
+# VS Code
+  - [Sakura Theme](https://themes.vscode.one/theme/Snakeqwertyx/cyXZQOFz)
+    - Great site for [custom themes](https://themes.vscode.one/). 
+  - Extentions
+    - TBD

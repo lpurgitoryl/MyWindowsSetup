@@ -33,7 +33,13 @@ I had some issues with lighting and turning this off helped.
 
 remove recycle bin ( the shortcut can't be deleted it seems like )
 - Settings > Personalization > Desktop icon Settings > Recycle Bin > Uncheck
-- 
+
+File Explorer
+- Open File Explorer > navigate to the "View" tab 
+  - View > Content 
+  - View > Show > File name extensions
+  - View > Show > Hidden items
+
 # Apps
 
 ### PowerToys
@@ -42,6 +48,9 @@ I like the fancy zones as it makes a nice gap between windows.
   - Window behavior > Make dragged window transparent
   - Zones
     - uncheck everything
+- Awake
+  -  keep awake for time interval > 1 hr
+  -  keep screen on
       
 ### TranslucentTB
   - Desktop > Clear

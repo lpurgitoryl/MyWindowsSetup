@@ -41,6 +41,12 @@ File Explorer
   - View > Show > File name extensions
   - View > Show > Hidden items
 
+Background
+- Iron Man Wallpapers
+
+LockScreen
+- Iron Man Wallpapers
+
 # Apps
 
 ### PowerToys
@@ -76,5 +82,6 @@ After
 # VS Code
   - [Sakura Theme](https://themes.vscode.one/theme/Snakeqwertyx/cyXZQOFz)
     - Great site for [custom themes](https://themes.vscode.one/). 
+      - It includes the install guide I followed as well
   - Extentions
     - TBD

@@ -66,12 +66,6 @@ I like the fancy zones as it makes a nice gap between windows.
 ### TRCC 
 [ This is so my AIO shows its theme on log in ](https://github.com/lpurgitoryl/TRCC_EnableOnStartup)
 
-### Warp
-So far its pretty cool! Automatically deteched my wsl environment and intial customization is enough to make thing looks pretty!
-- Theme > Dark City
-
-Other configs are not easily exported, but I made Ubuntu as default shell.
-
 # WSL
 Before Installing WSL
 - Control Panel > Programs > Turn Windows features on or off > Windows Subsystem for Linux > check and apply
@@ -80,8 +74,26 @@ After
 - follow [this](https://learn.microsoft.com/en-us/windows/wsl/setup/environment)
 
 # VS Code
+  - [Dark Horizon](https://marketplace.visualstudio.com/items?itemName=mcagampan.dark-horizon)
+    - [Catppuccin Icons for VS Code](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
   - [Sakura Theme](https://themes.vscode.one/theme/Snakeqwertyx/cyXZQOFz)
     - Great site for [custom themes](https://themes.vscode.one/). 
       - It includes the install guide I followed as well
   - Extentions
     - TBD
+
+  
+# Terminals
+
+### Warp
+So far its pretty cool! Automatically deteched my wsl environment and intial customization is enough to make thing looks pretty!
+- Theme > Dark City
+
+Other configs are not easily exported, but I made Ubuntu as default shell.
+
+### Windows Terminal
+-  Condg file `windows_terminal_settings.json`
+  #### Ubuntu Distro
+  - Oh My Posh
+    - HackNerd Mono Font
+    - Config file  `ohmyposh-theme.json`
